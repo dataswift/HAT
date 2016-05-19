@@ -1,1 +1,1 @@
-# HAT readme
+# Welcome to the HAT Project
