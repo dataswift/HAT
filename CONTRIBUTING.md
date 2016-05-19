@@ -6,10 +6,10 @@ HAT Project is an umbrella project that contains many sub projects. A project li
 
 ##The HAT Community
 The HAT project has been supported by the HAT community since its inception back in 2013 as a research project. The HAT community is made up of users in different (formal or informal) roles:
-*Owner - the organization that created the project. The HAT project was founded in 2013 by a HAT research consortium containing 6 UK Universities - Warwick (lead partner), Cambridge, Nottingham, Surrey, UWE, and Edinborough.  
-*Maintainers are development community  primarily doing the work on HAT project and driving the direction since 2013. The maintainer was Warwick University, as the lead partner of the HAT research consortium until the end of the research project (end of 2015). The maintainer’s role has been allocated collectively to the HAT Community Foundation and the HAT follow-up research community - HARRIET project team, and HALL project team. The maintainer have write access to the repository.
-*Contributors is everyone who has had a pull request merged into a project.
-*Community Members are the users who often use and care deeply about the project and are active in discussions for features and pull requests.
+* Owner - the organization that created the project. The HAT project was founded in 2013 by a HAT research consortium containing 6 UK Universities - Warwick (lead partner), Cambridge, Nottingham, Surrey, UWE, and Edinborough.  
+* Maintainers are development community  primarily doing the work on HAT project and driving the direction since 2013. The maintainer was Warwick University, as the lead partner of the HAT research consortium until the end of the research project (end of 2015). The maintainer’s role has been allocated collectively to the HAT Community Foundation and the HAT follow-up research community - HARRIET project team, and HALL project team. The maintainer have write access to the repository.
+* Contributors is everyone who has had a pull request merged into a project.
+* Community Members are the users who often use and care deeply about the project and are active in discussions for features and pull requests.
 
 ##The Docs
 The what’s-what of common files in projects.
