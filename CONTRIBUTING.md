@@ -36,14 +36,17 @@ If you’re able to patch the bug or add the feature yourself – fantastic, mak
 * We do require contributors to sign contributions using the sign-off feature of the [Developer Certificate Of Origin](https://github.com/Hub-of-all-Things/HAT/blob/master/DCO). Please include a signed-off-by line as part of your commit comments when you submit a pull request. Here is an example Signed-off-by line, that indicates the submitter accepts the DCO: 
    ```Signed-off-by: John Doe <john.doe@hisdomain.com>```
 * If you are creating any new file, please attach the following notices to the program to the start of each source file. HAT project uses two different licenses, AGPL and MPL, for different sub projects. Please make sure your have attached the correct notice to the program.
-  * For AGPL licensed sub projects:
-    ```This program is open source software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details. You should have received a copy of the GNU Affero General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.```
+  * For AGPL licensed sub projects
+  
+    ```<This is a file submitted under the HAT Project - https://github.com/Hub-of-all-Things> Copyright (C) <year>  <name of author>```
+
+    ```This file is part of the Hub of All Things (HAT) project. HAT is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, version 3 of the License. HAT is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details. You should have received a copy of the GNU Affero General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.```
 
   * For MPL licensed sub projects:
-    ```This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. ```
+  
+     ```<This is a file submitted under the HAT Project - https://github.com/Hub-of-all-Things> Copyright (C) <year>  <name of author>```
 
-* Each file should have at least the "copyright" line and a pointer to where the full notice is found. Here is an example of the "copyright" line: 
-   ```<This is a file submitted under the HAT Project - https://github.com/Hub-of-all-Things> Copyright (C) <year>  <name of author>```
+    ```This file is part of the Hub of All Things (HAT) project. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. ```
 
 ###Pull Request Pro Tips
 Fork the repository and clone it locally. Connect your local to the original ‘upstream’ repository by adding it as a remote. Pull in changes from ‘upstream’ often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. See more detailed instructionshere.
