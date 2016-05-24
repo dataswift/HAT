@@ -2,7 +2,7 @@
 A great way to get involved in the HAT project is to contribute to the existing stacks of the HAT. The HAT Project team uses Github for its source code management. The current HAT Project development tree is at https://github.com/Hub-of-all-Things; 
 
 ##The HAT Project
-HAT Project is an umbrella project that contains many sub projects. A project list of HAT project can be found here - links (HAT 2.0 to become the master for all to sign posting). Below are some elements you’re likely to come across in HAT project on GitHub.
+HAT Project is an umbrella project that contains many sub projects. A project list of HAT project is available here (https://github.com/Hub-of-all-Things/HAT/blob/master/README.md). Below are some elements you’re likely to come across in HAT project on GitHub.
 
 ##The HAT Community
 The HAT project has been supported by the HAT community since its inception back in 2013 as a research project. The HAT community is made up of users in different (formal or informal) roles:
