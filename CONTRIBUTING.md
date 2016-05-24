@@ -6,8 +6,8 @@ HAT Project is an umbrella project that contains many sub projects. A project li
 
 ##The HAT Community
 The HAT project has been supported by the HAT community since its inception back in 2013 as a research project. The HAT community is made up of users in different (formal or informal) roles:
-* Owner - the organization that created the project. The HAT project was founded in 2013 by a HAT research consortium containing 6 UK Universities - Warwick (lead partner), Cambridge, Nottingham, Surrey, UWE, and Edinborough.  
-* Maintainers are development community  primarily doing the work on HAT project and driving the direction since 2013. The maintainer was Warwick University, as the lead partner of the HAT research consortium until the end of the research project (end of 2015). The maintainer’s role has been allocated collectively to the HAT Community Foundation and the HAT follow-up research community - HARRIET project team, and HALL project team. The maintainer have write access to the repository.
+* Owner - the organization that created the project. The HAT project was founded in 2013 by a HAT research consortium containing 6 UK Universities - Warwick (lead partner), Cambridge, Nottingham, Surrey, UWE, and Edinborough. The [HAT Community Foundatoin](http://hatcommunity.org/) took on the ownership, as well as the maintainers role after HAT project finished in 2015. 
+* Maintainers - development community organised by the [HAT Community Foundatoin](http://hatcommunity.org/), primarily doing the work on HAT project and driving the direction. The maintainer have write access to the repository.
 * Contributors is everyone who has had a pull request merged into a project.
 * Community Members are the users who often use and care deeply about the project and are active in discussions for features and pull requests.
 
@@ -49,7 +49,7 @@ If you’re able to patch the bug or add the feature yourself – fantastic, mak
   
     ```This file is part of the Hub of All Things (HAT) project. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. ```
 
-    ```SPDX-License-Identifier: AGPL-3.0```
+    ```SPDX-License-Identifier: MPL-2.0```
    
     ```This is a file submitted under the HAT Project - https://github.com/Hub-of-all-Things Copyright (C) <year> <name of author>``` 
 ###Pull Request Pro Tips
