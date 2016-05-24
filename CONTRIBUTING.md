@@ -52,6 +52,7 @@ If you’re able to patch the bug or add the feature yourself – fantastic, mak
     ```SPDX-License-Identifier: MPL-2.0```
    
     ```This is a file submitted under the HAT Project - https://github.com/Hub-of-all-Things Copyright (C) <year> <name of author>``` 
+
 ###Pull Request Pro Tips
 Fork the repository and clone it locally. Connect your local to the original ‘upstream’ repository by adding it as a remote. Pull in changes from ‘upstream’ often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. See more detailed instructionshere.
 Create a branch for your edits.
