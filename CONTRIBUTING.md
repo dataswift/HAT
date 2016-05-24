@@ -25,18 +25,22 @@ Alternatively, the repository may instead use the different system for wiki to b
 This sections details the specifics about how HAT project’s maintainer would like to see patches or features contributed. This can include what tests to write, code syntax style or areas to focus on for patches.
 ###Create an Issue
 If you find a bug in a project you’re using (and you don’t know how to fix it), have trouble following the documentation or have a question about the project – create an issue! There’s nothing to it and whatever issue you’re having, you’re likely not the only one, so others will find your issue helpful, too. For more information on how issues work, check out our Issues guide.
-###Issues Pro Tips
+####Issues Pro Tips
 Check existing issues for your issue. Duplicating an issue is slower for both parties so search through open and closed issues to see if what you’re running into has been addressed already.
 Be clear about what your problem is: what was the expected outcome, what happened instead? Detail how someone else can recreate the problem.
 Link to demos recreating the problem on things like JSFiddle or CodePen.
 Include system details like what the browser, library or operating system you’re using and its version.
 Paste error output or logs in your issue or in a Gist. If pasting them in the issue, wrap it in three backticks: ` ``` ` so that it renders nicely.
-##Pull Request
-If you’re able to patch the bug or add the feature yourself – fantastic, make a pull request with the code! Be sure you’ve read any documents on contributing, and understand the license. The project does not require community members to sign contribution or committer agreements. 
-* We do require contributors to sign contributions using the sign-off feature of the [Developer Certificate Of Origin](https://github.com/Hub-of-all-Things/HAT/blob/master/DCO). Please include a signed-off-by line as part of your commit comments when you submit a pull request. Here is an example Signed-off-by line, that indicates the submitter accepts the DCO: 
+###Pull Request
+If you’re able to patch the bug or add the feature yourself – fantastic, make a pull request with the code! Be sure you’ve read any documents on contributing, and understand the license. The project does not require community members to sign contribution or committer agreements.
+#### Developer Certificate Of Origin
+We do require contributors to sign contributions using the sign-off feature of the [Developer Certificate Of Origin](https://github.com/Hub-of-all-Things/HAT/blob/master/DCO). Please include a signed-off-by line as part of your commit comments when you submit a pull request. Here is an example Signed-off-by line, that indicates the submitter accepts the DCO: 
+
    ```Signed-off-by: John Doe <john.doe@hisdomain.com>```
-* If you are creating any new file, please attach the following notices to the program to the start of each source file. HAT project uses two different licenses, AGPL and MPL, for different sub projects. Please make sure your have attached the correct notice to the program.
-  * For AGPL licensed sub projects
+
+#### Header for new files
+If you are creating any new file, please attach the following notices to the program to the start of each source file. HAT project uses two different licenses, AGPL and MPL, for different sub projects. Please make sure your have attached the correct notice to the program.
+* For AGPL licensed sub projects
   
     ```This file is part of the Hub of All Things (HAT) project. HAT is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, version 3 of the License. HAT is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details. You should have received a copy of the GNU Affero General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.```
 
@@ -44,8 +48,7 @@ If you’re able to patch the bug or add the feature yourself – fantastic, mak
    
     ```This is a file submitted under the HAT Project - https://github.com/Hub-of-all-Things Copyright (C) <year> <name of author>``` 
 
-
-  * For MPL licensed sub projects:
+* For MPL licensed sub projects:
   
     ```This file is part of the Hub of All Things (HAT) project. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. ```
 
