@@ -63,8 +63,10 @@ Be clear about what problem is occurring and how someone can recreate that probl
 * It’s best to test. Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.
 * Include screenshots of the before and after if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
 * Contribute in the style of the project to the best of your abilities. This may mean using indents, semi colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
-###Open Pull Requests
+
+### Open Pull Requests
 Once you’ve opened a pull request a discussion will start around your proposed changes. Other contributors and users may chime in, but ultimately the decision is made by the maintainer(s). You may be asked to make some changes to your pull request, if so, add more commits to your branch and push them – they’ll automatically go into the existing pull request.
+
 ###Adding a screenshot
 If your pull request is merged – great! If it is not, please communicate with the maintainer! it may not be what the project maintainer had in mind, or someone was already working on it. This happens, so our recommendation is to take any feedback you’ve received and go forth and pull request again!
 
