@@ -36,29 +36,29 @@ If you’re able to patch the bug or add the feature yourself – fantastic, mak
 #### Developer Certificate Of Origin
 We do require contributors to sign contributions using the sign-off feature of the [Developer Certificate Of Origin](https://github.com/Hub-of-all-Things/HAT/blob/master/DCO). Please include a signed-off-by line as part of your commit comments when you submit a pull request. Here is an example Signed-off-by line, that indicates the submitter accepts the DCO: 
 
-    ```Signed-off-by: John Doe <john.doe@hisdomain.com>```
+     ```Signed-off-by: John Doe <john.doe@hisdomain.com>```
 
 #### Header for new files
 If you are creating any new file, please attach the following notices to the program to the start of each source file. HAT project uses two different licenses, AGPL and MPL, for different sub projects. Please make sure your have attached the correct notice to the program.
 * For AGPL licensed sub projects
 
-    ```Copyright (C) <year> <name of author|name of company>```   
+     ```Copyright (C) <year> <name of author|name of company>```   
 
-    ```SPDX-License-Identifier: AGPL-3.0```
+     ```SPDX-License-Identifier: AGPL-3.0```
 
-    ```This file is part of the Hub of All Things (HAT) project. HAT is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, version 3 of the License. HAT is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details. You should have received a copy of the GNU Affero General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.```
+     ```This file is part of the Hub of All Things (HAT) project. HAT is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, version 3 of the License. HAT is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details. You should have received a copy of the GNU Affero General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.```
    
-    ```This is a file submitted under the HAT Project - https://github.com/Hub-of-all-Things```
+     ```This is a file submitted under the HAT Project - https://github.com/Hub-of-all-Things```
 
 * For MPL licensed sub projects:
 
       ```Copyright (C) <year> <name of author|name of company>```   
 
-    ```SPDX-License-Identifier: MPL-2.0```
+     ```SPDX-License-Identifier: MPL-2.0```
 
-    ```This file is part of the Hub of All Things (HAT) project. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. ```
+     ```This file is part of the Hub of All Things (HAT) project. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. ```
 
-    ```This is a file submitted under the HAT Project - https://github.com/Hub-of-all-Things```
+     ```This is a file submitted under the HAT Project - https://github.com/Hub-of-all-Things```
 
 ###Pull Request Pro Tips
 * Fork the repository and clone it locally. Connect your local to the original ‘upstream’ repository by adding it as a remote. Pull in changes from ‘upstream’ often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. See more detailed instructionshere.
