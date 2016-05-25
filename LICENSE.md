@@ -10,7 +10,7 @@ Please note sub projects under HAT Project are licensed differently under two op
 ### Calendar Data Plug
 [Calendar Data Plug](https://github.com/Hub-of-all-Things/DataPlugCalendar) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/AGPL)
 ### Dropbox Photo Data Plug
-[Dropbox Photo Data Plug](https://github.com/Hub-of-all-Things/DataPlugDropbox)is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/AGPL)
+[Dropbox Photo Data Plug](https://github.com/Hub-of-all-Things/DataPlugDropbox) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/AGPL)
 
 ##Rumpel
 ### Mobile Rumpel
