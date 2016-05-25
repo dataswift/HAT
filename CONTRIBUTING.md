@@ -36,7 +36,7 @@ If you’re able to patch the bug or add the feature yourself – fantastic, mak
 #### Developer Certificate Of Origin
 We do require contributors to sign contributions using the sign-off feature of the [Developer Certificate Of Origin](https://github.com/Hub-of-all-Things/HAT/blob/master/DCO). Please include a signed-off-by line as part of your commit comments when you submit a pull request. Here is an example Signed-off-by line, that indicates the submitter accepts the DCO: 
 
-   ```Signed-off-by: John Doe <john.doe@hisdomain.com>```
+    ```Signed-off-by: John Doe <john.doe@hisdomain.com>```
 
 #### Header for new files
 If you are creating any new file, please attach the following notices to the program to the start of each source file. HAT project uses two different licenses, AGPL and MPL, for different sub projects. Please make sure your have attached the correct notice to the program.
