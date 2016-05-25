@@ -6,7 +6,7 @@ Please note sub projects under HAT Project are licensed differently under two op
 
 ##Data Plugs
 ### Facebook Data Plug
-[Facebook](https://github.com/Hub-of-all-Things/DataPlugFacebook) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/AGPL)
+[Facebook Data Plug](https://github.com/Hub-of-all-Things/DataPlugFacebook) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/AGPL)
 ### Calendar Data Plug
 [Calendar Data Plug](https://github.com/Hub-of-all-Things/DataPlugCalendar) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/AGPL)
 ### Dropbox Photo Data Plug
@@ -15,3 +15,5 @@ Please note sub projects under HAT Project are licensed differently under two op
 ##Rumpel
 ### Mobile Rumpel
 [Mobile Rumpel]() is licensed under [MPL - Mozilla Public License](https://github.com/Hub-of-all-Things/HAT/blob/master/MPL)
+### Web Rumpel
+[Web Rumpel]() is licensed under [MPL - Mozilla Public License](https://github.com/Hub-of-all-Things/HAT/blob/master/MPL)
