@@ -18,9 +18,5 @@ Please note sub projects under HAT Project are licensed differently under two op
 
 
 ##Rumpel
-'''
-### Mobile Rumpel
-[Mobile Rumpel]() is licensed under [MPL - Mozilla Public License](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/MPL)
-'''
 ### Web Rumpel
 [Web Rumpel]() is licensed under [MPL - Mozilla Public License](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/MPL)
