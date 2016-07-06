@@ -13,6 +13,8 @@ Please note sub projects under HAT Project are licensed differently under two op
 ### Dropbox Photo Data Plug
 [Dropbox Photo Data Plug](https://github.com/Hub-of-all-Things/DataPlugDropbox) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/AGPL)
 
+### NodeJS library for HAT
+[NodeJS library for HAT](https://github.com/Hub-of-all-Things/hat-node-sdk) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/AGPL)
 
 ##Rumpel
 ### Mobile Rumpel
