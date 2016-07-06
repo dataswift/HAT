@@ -16,6 +16,7 @@ Please note sub projects under HAT Project are licensed differently under two op
 ### NodeJS library for HAT
 [NodeJS library for HAT](https://github.com/Hub-of-all-Things/hat-node-sdk) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/AGPL)
 
+
 ##Rumpel
 ### Mobile Rumpel
 [Mobile Rumpel]() is licensed under [MPL - Mozilla Public License](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/MPL)
