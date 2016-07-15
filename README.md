@@ -45,11 +45,10 @@ HAT APIs were developed to exercise user managed control of your personal data. 
 Data Plugs are bits of software allowing to retrieve individual's data from data sources on internet (e.g. Facebook) into their HAT. For more details, please visit [here](http://forum.hatdex.org/t/what-are-the-hat-data-plugs). An initial set of Data Plugs:
 
 - [x] Facebook: [https://github.com/Hub-of-all-Things/DataPlugFacebook](https://github.com/Hub-of-all-Things/DataPlugFacebook) 
-- [x] iOS Location - it is a built-in functionality of Rumpel: [https://github.com/Hub-of-all-Things/hat-mobile](https://github.com/Hub-of-all-Things/hat-mobile) 
 - [x] Photos from Dropbox: [https://github.com/Hub-of-all-Things/DataPlugDropbox](https://github.com/Hub-of-all-Things/DataPlugDropbox) 
 - [x] iCal Calendar: [https://github.com/Hub-of-all-Things/DataPlugCalendar](https://github.com/Hub-of-all-Things/DataPlugCalendar) 
 - [x] Weather Underground
-- [ ] Google Maps
+- [ ] HAT Location App (iOS location data plug) - due in Sep 2016: [https://github.com/Hub-of-all-Things/hat-mobile](https://github.com/Hub-of-all-Things/hat-mobile) 
 
 ### Rumpel
 
