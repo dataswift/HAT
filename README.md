@@ -58,22 +58,13 @@ Personal Data is a combination of various information: your location on your pho
 
 There are many people who want to sell their data because they think it is valuable to firms. What they do not understand is that an exchange of a precious commodity can happen only when both sides value the data.  If Rumpel can make you see real value of the data to yourself, you will demand more in exchange for it. But more importantly, the firms would also find your contextualised data more valuable!
 
-#### Mobile Rumpel
-
-![Mobile Rumpel](https://github.com/Hub-of-all-Things/DevInfo/blob/master/figures/mrumpel.png)
-
-#### Web Rumpel
-
-![Web Rumpel](https://github.com/Hub-of-all-Things/DevInfo/blob/master/figures/wrumpel.png)
-  
-
 ### Forum
 
 We would like to encourage you to ask any questions you have and share your thoughts about your HAT experience. You can do this by joining [the HAT forum](http://forum.hatdex.org).
 
 ### HATs UP!
 
-After 2 nail biting months, we did it - we have raised £50K and our Indiegogo campaign is a success!
+We have raised £50K and our Indiegogo campaign is a success! There are still a small number of Beta HAT available, so ...
 
 [![Grab your HAT!](https://github.com/Hub-of-all-Things/DevInfo/blob/master/figures/indiegogo.png)](https://www.indiegogo.com/projects/hat-claim-your-data-organise-visualise-control--3#)
 
