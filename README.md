@@ -22,7 +22,7 @@ HAT Participants are roles in the HAT Ecosystem, which include:
 - **HPPs (HATPDP Providers)**: organisations (platform providers) that host users' HATs and support a community of HAT developers by developing HAT services that improve the HAT personal Data Platform (HATPDP) capabilities.
 - **HAT Users**: individuals who own and use HAT data and integrate data from HAT-ready devices and services.
 - **HAT Service Providers**: organisations who provide a HAT service on the HATPDP.
-- **The HAT Foundation (HATDeX Foundation)**: HAT Data Exchange Foundation is an organisation that manages and regulates the HAT ecosystem. Positioned as a form of exchange, it provides regulatory rules and services for personal data (and other related personal data instruments) to be traded in the HAT- enabled ecosystem.
+- **The HAT Foundation **: The HAT Foundation is an organisation that manages and regulates the HAT ecosystem. Positioned as a form of exchange, it provides regulatory rules and services for personal data (and other related personal data instruments) to be traded in the HAT- enabled ecosystem, stimulate innovation around HAT, and grow the HAT community..
 
 ### Architecture Diagram
  
