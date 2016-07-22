@@ -11,7 +11,7 @@ Information for Developers - navigation to all relevant documents.
 
 ### Who is who in the HAT Ecosystem?
 
-![HAT Ecosystem](https://github.com/Hub-of-all-Things/DevInfo/blob/master/figures/HATeco.png)
+![HAT Ecosystem](https://github.com/Hub-of-all-Things/HAT/blob/master/figures/Architecture.L0.png)
 
 HAT is a personal data platform developed by the HAT Project that allows a HAT user to acquire, store, transform, view, sell, rent, trade and use his or her personal data. Also known as the HAT personal Data Platform (HATPDP).
 
@@ -26,7 +26,7 @@ HAT Participants are roles in the HAT Ecosystem, which include:
 
 ### Architecture Diagram
  
-![Architecture Diagram](https://github.com/Hub-of-all-Things/DevInfo/blob/master/figures/hatarch.png)
+![Architecture Diagram](https://github.com/Hub-of-all-Things/HAT/blob/master/figures/Architecture.L1.png)
 
 HATs can be provisioned via the web interface, one of which is currently in development. It is a mechanism to deploy, run and control individual HATs in a cloud environment, built in a microservice fashion to help any organisation to become a HAT Platform Provider. The HAT Platform Providers are expected, however, to create their own HAT provisioning systems fitting their needs and infrastructure.
 
