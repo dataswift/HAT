@@ -42,7 +42,7 @@ HAT APIs were developed to exercise user managed control of your personal data. 
 
 ### Data Plugs 
 
-Data Plugs are bits of software allowing to retrieve individual's data from data sources on internet (e.g. Facebook) into their HAT. For more details, please visit [here](http://forum.hatdex.org/t/what-are-the-hat-data-plugs). An initial set of Data Plugs:
+Data Plugs are bits of software allowing to retrieve individual's data from data sources on internet (e.g. Facebook) into their HAT. For more details, please visit [here](http://forum.hatcommunity.org/t/what-are-the-hat-data-plugs/88). An initial set of Data Plugs:
 
 - [x] Facebook: [https://github.com/Hub-of-all-Things/DataPlugFacebook](https://github.com/Hub-of-all-Things/DataPlugFacebook) 
 - [x] Photos from Dropbox: [https://github.com/Hub-of-all-Things/DataPlugDropbox](https://github.com/Hub-of-all-Things/DataPlugDropbox) 
@@ -60,7 +60,7 @@ There are many people who want to sell their data because they think it is valua
 
 ### Forum
 
-We would like to encourage you to ask any questions you have and share your thoughts about your HAT experience. You can do this by joining [the HAT forum](http://forum.hatdex.org).
+We would like to encourage you to ask any questions you have and share your thoughts about your HAT experience. You can do this by joining [the HAT forum](http://forum.hatcommunity.org/).
 
 ### HATs UP!
 
