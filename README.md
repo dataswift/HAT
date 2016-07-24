@@ -9,7 +9,7 @@ Information for Developers - navigation to all relevant documents.
 - We also have the [APIs](https://github.com/Hub-of-all-Things/DevInfo#api) so that you can input and ouput data from the HAT.
 - If you need to build some extra services to input data into HATs, here are some existing [Data Plugs](https://github.com/Hub-of-all-Things/DevInfo#data-plugs) for you to consult.
 
-### Who is who in the HAT Ecosystem?
+## Who is who in the HAT Ecosystem?
 
 ![HAT Ecosystem](https://github.com/Hub-of-all-Things/HAT/blob/master/figures/Architecture.L0.png)
 
@@ -24,7 +24,7 @@ HAT Participants are roles in the HAT Ecosystem, which include:
 - **HAT Service Providers**: organisations who provide a HAT service on the HATPDP.
 - **The HAT Foundation **: The HAT Foundation is an organisation that manages and regulates the HAT ecosystem. Positioned as a form of exchange, it provides regulatory rules and services for personal data (and other related personal data instruments) to be traded in the HAT- enabled ecosystem, stimulate innovation around HAT, and grow the HAT community..
 
-### Architecture Diagram
+## Architecture Diagram
  
 ![Architecture Diagram](https://github.com/Hub-of-all-Things/HAT/blob/master/figures/Architecture.L1.png)
 
@@ -40,7 +40,7 @@ Each database contains a data schema, allowing for storing any individual's data
 
 HAT APIs were developed to exercise user managed control of your personal data. REST APIs for the HAT schema can be used by web, mobile and other clients to interact with the HAT, allowing the user to control their data and applications benefit from it. API documentation can be found at [http://hub-of-all-things.github.io/doc](http://hub-of-all-things.github.io/doc). 
 
-### Data Plugs 
+## Data Plugs 
 
 Data Plugs are bits of software allowing to retrieve individual's data (well basically our personal data) from data sources on internet (e.g. Facebook) into the HAT. Some already existing HAT Data Plugs:
 
@@ -70,7 +70,7 @@ Calendar Data Plug employs iCalendar file format allowing individuals to collect
 
 The weather data plug is a Rumpel built-in function. It collects weather conditions at individual’s live location or a pre-defined location. It calls weather services from Weather Underground. Weather underground API documentation can be found [here](https://www.wunderground.com/weather/api/d/docs).
 
-### Rumpel
+## Rumpel
 
 The HAT is done - it is stable to be built on and it is ready. But it is like saying, "I have a www or I have an operating system". Not exciting. So [Harriet Project](http://hubofallthings.com/Harriet) team created Rumpel - a killer app (and there can be many!) to get the HAT into a roll-out stage where it would be adopted by millions. To understand what Rumpel is, however, you should first understand what Personal Data is. 
 
@@ -78,11 +78,11 @@ Personal Data is a combination of various information: your location on your pho
 
 There are many people who want to sell their data because they think it is valuable to firms. What they do not understand is that an exchange of a precious commodity can happen only when both sides value the data.  If Rumpel can make you see real value of the data to yourself, you will demand more in exchange for it. But more importantly, the firms would also find your contextualised data more valuable!
 
-### Forum
+## Forum
 
-We would like to encourage you to ask any questions you have and share your thoughts about your HAT experience. You can do this by joining [the HAT forum](http://forum.hatcommunity.org/).
+We would like to encourage you to ask any questions you have and share your thoughts about your HAT experience. You can do this by joining [the HAT forum](http://forum.hatcommunity.org).
 
-### HATs UP!
+## HATs UP!
 
 We have raised £50K and our Indiegogo campaign is a success! There are still a small number of Beta HAT available, so ...
 
@@ -90,7 +90,7 @@ We have raised £50K and our Indiegogo campaign is a success! There are still a 
 
 We would like to encourage everyone to ask any questions they have and share their thoughts about the HAT experience in our social media channels: [Facebook group](https://www.facebook.com/hubofallthings) and [Twitter](https://twitter.com/TheHATDex). 
 
-### Background of the HAT Project
+## Background of the HAT Project
 
 The HAT is a research project on engineering a market for personal data and, therefore, designing the economic and business models relevant for this market. As such, we do not have many of the answers. However, over the course of the research, we have done some substantial work and made decisions so that we can move forward to realising the vision. The work done is now articulated in the following six briefing papers:
 
