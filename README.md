@@ -1,7 +1,7 @@
 
 ![Hub of All things](http://hubofallthings.com/wp-content/uploads/banner21.png)
 
-# # Welcome to the HAT Project
+## Welcome to the HAT Project
 
 Information for Developers - navigation to all relevant documents.
 
