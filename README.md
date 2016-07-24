@@ -36,7 +36,7 @@ Currently available Data Plugs are run using a separate set of cloud resources, 
 
 Each database contains a data schema, allowing for storing any individual's data from any source without loosing the structure specific to the source, at the same time allowing the individual to relate their data to the context of their personal life and provide a common semantic structure for third parties to use such data.
 
-### <a name="api"></a>API
+## <a name="api"></a>API
 
 HAT APIs were developed to exercise user managed control of your personal data. REST APIs for the HAT schema can be used by web, mobile and other clients to interact with the HAT, allowing the user to control their data and applications benefit from it. API documentation can be found at [http://hub-of-all-things.github.io/doc](http://hub-of-all-things.github.io/doc). 
 
@@ -90,7 +90,7 @@ We have raised £50K and our Indiegogo campaign is a success! There are still a 
 
 We would like to encourage everyone to ask any questions they have and share their thoughts about the HAT experience in our social media channels: [Facebook group](https://www.facebook.com/hubofallthings) and [Twitter](https://twitter.com/TheHATDex). 
 
-## Background of the HAT Project
+# Background of the HAT Project
 
 The HAT is a research project on engineering a market for personal data and, therefore, designing the economic and business models relevant for this market. As such, we do not have many of the answers. However, over the course of the research, we have done some substantial work and made decisions so that we can move forward to realising the vision. The work done is now articulated in the following six briefing papers:
 
