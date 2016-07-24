@@ -63,6 +63,7 @@ Dropbox Data Plug currently uses Dropbox API to create metalinks to individual�
 **iCal Calendar Data Plug**
 
 [https://github.com/Hub-of-all-Things/DataPlugCalendar](https://github.com/Hub-of-all-Things/DataPlugCalendar)
+
 Calendar Data Plug employs iCalendar file format allowing individuals to collect their calendar information back into their hats. iCalendar Data synchronisation within the HAT is initialised by entering user’s ics calendar url into the form and submitting it. It depends on your calendar provider how you can obtain the URL. For example, for Google calendar visit [this](https://support.google.com/calendar/answer/37648?hl=en). Currently iCal Celendar Data Plug extracts a simple set of individual’s calendar event information, using ical.js (https://github.com/mozilla-comm/ical.js) library: event name, event start and end dates, “last updated” timestamp, event location, attendees, summary, description and organiser. For more information about iCalendar, please visit [this](https://en.wikipedia.org/wiki/ICalendar).
 
 **Weather Data Plug**
