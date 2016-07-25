@@ -72,14 +72,22 @@ The weather data plug is a Rumpel built-in function. It collects weather conditi
 
 ## Rumpel
 
-
-
 [Harriet Project](http://hubofallthings.com/Harriet) team initiated the creation of [RUMPEL](https://github.com/Hub-of-all-Things/rumpel) - a hyper data browser for your HAT data. No one else can use RUMPEL to view your HAT data except yourself, as the HAT owner. It is compatible with all computer Operating Systems and it excludes all third parties, advertisements and ‘hard selling’. It is also being made available as an open source programme, under Mozilla Public License.
 Personal Data is a combination of various information: your location on your phone, your Facebook postings, the music you listen to, etc. But we have never seen all of this data in one place! So when we do not have a way of seeing our data, we do not feel precious about it. It is like seeing bits of your clothing all over the place, but only when they come together in your wardrobe do you realise you have some good stuff and you can mix and match for your own benefit. Rumpel therefore fulfils this important psychological function with your Personal Data - making it your own HyperData Browser (our personal data wardrobe) with good data visualisations of your own data and allowing you to create bundles and collections. And in so doing, Rumpel must be able to "spin straw to gold" - to make the human being feel her / his data has value to herself / himself.
 
 There are many people who want to sell their data because they think it is valuable to firms. What they do not understand is that an exchange of a precious commodity can happen only when both sides value the data.  If Rumpel can make you see real value of the data to yourself, you will demand more in exchange for it. But more importantly, the firms would also find your contextualised data more valuable!
 
-More detailed capability of Rumpel can be found [here](https://rumpel.hubofallthings.com/#/about)
+To find out more about Rumpel, click [here](https://rumpel.hubofallthings.com/#/about)
+
+## MarketSquare
+
+MarketSquare is the service provided by HATDeX so that HATs can come together as a community and engage with the wider stakeholder community of the HAT ecosystem. On Marketsquare, HAT users can browse data offers, and build sub groups of HATs interested to engage with a cause or build new functionalities on the HAT. HAT users can keep up to date with the latest news , and chat with other HAT users.
+
+MarketSquare is also where data shoppers sign up to ask for HAT data and HAT users can browse these offers and decide which are relevant and if they are willing to exchange their data in return for the benefits. 
+
+Developers also go to MarketSquare to get their data plugs validated and published. Data plugs are services created by developers who wish to bring more and different types of data into the HAT. If a data plug has been created by a developer, they come into Marketsquare and register it for approval. Once approved, HAT users can use these data plugs to bring their data into their HATs. HAT users can also vote for the quality of the data plug by voting on it.
+
+Click [here](https://marketsquare.hubofallthings.com/about) to find out more about MarketSquare
 
 ## Forum
 
