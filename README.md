@@ -5,7 +5,7 @@
 
 Information for Developers - navigation to all relevant documents.
 
-- If you are interested in developing something on the HAT, you may want to know [the HAT architecture](https://github.com/Hub-of-all-Things/DevInfo#architecture-diagram) first.
+- If you are interested in developing something on the HAT, you may want to know [the HAT architecture](https://github.com/Hub-of-all-Things/HAT#architecture-diagram) first.
 - We also have the [APIs](https://github.com/Hub-of-all-Things/DevInfo#api) so that you can input and ouput data from the HAT.
 - If you need to build some extra services to input data into HATs, here are some existing [Data Plugs](https://github.com/Hub-of-all-Things/DevInfo#data-plugs) for you to consult.
 
