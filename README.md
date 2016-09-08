@@ -29,6 +29,7 @@ HAT Participants are roles in the HAT Ecosystem, which include:
 ![Architecture Diagram](https://github.com/Hub-of-all-Things/HAT/blob/master/figures/Architecture.L1.png)
 
 HATs can be provisioned via the web interface, one of which is currently in development. It is a mechanism to deploy, run and control individual HATs in a cloud environment, built in a microservice fashion to help any organisation to become a HAT Platform Provider. The HAT Platform Providers are expected, however, to create their own HAT provisioning systems fitting their needs and infrastructure.
+The most up to date stable version of HAT core is HAT [2.0] (https://github.com/Hub-of-all-Things/HAT2.0)
 
 In the current architecture, a [Kubernetes](http://k8s.io) cluster is created to run HATs. Kubernetes is used to manage all HATs and their databases running as separate, isolated [Docker](https://docker.com) containers across a number of Elastic Compute Cloud [EC2](https://aws.amazon.com/ec2) instances. Each HAT communicates with the outside world via [APIs](https://en.wikipedia.org/wiki/Application_programming_interface) and can be accessed by the owner and authorized applications from the outside world, including Rumpel interface. HAT data is persisted in encrypted Elastic Block Store [EBS](https://aws.amazon.com/ebs) units and backed up using EBS Snapshots, to make sure individuals' data is not lost even in the case of outages.
 
