@@ -7,16 +7,19 @@ Please note sub projects under HAT Project are licensed differently under two op
 
 ##Data Plugs
 ### Facebook Data Plug
-[Facebook Data Plug](https://github.com/Hub-of-all-Things/DataPlugFacebook) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/AGPL)
+[Facebook Data Plug](https://github.com/Hub-of-all-Things/DataPlugFacebook) is licensed under [MPL - Mozilla Public License](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/MPL)
 ### Calendar Data Plug
-[Calendar Data Plug](https://github.com/Hub-of-all-Things/DataPlugCalendar) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/AGPL)
+[Calendar Data Plug](https://github.com/Hub-of-all-Things/DataPlugCalendar) is licensed under [MPL - Mozilla Public License](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/MPL)
 ### Dropbox Photo Data Plug
-[Dropbox Photo Data Plug](https://github.com/Hub-of-all-Things/DataPlugDropbox) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/AGPL)
+[Dropbox Photo Data Plug](https://github.com/Hub-of-all-Things/DataPlugDropbox) is licensed under [MPL - Mozilla Public License](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/MPL)
 
 ### NodeJS library for HAT
-[NodeJS library for HAT](https://github.com/Hub-of-all-Things/hat-node-sdk) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/AGPL)
+[NodeJS library for HAT](https://github.com/Hub-of-all-Things/hat-node-sdk) is licensed under [MPL - Mozilla Public License](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/MPL)
 
 
 ##Rumpel
 ### Web Rumpel
-[Web Rumpel]() is licensed under [MPL - Mozilla Public License](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/MPL)
+[Web Rumpel](https://github.com/Hub-of-all-Things/Rumpel) is licensed under [MPL - Mozilla Public License](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/MPL)
+
+###Rumpel Lite (iOS)
+[Rumpel Lite](https://github.com/Hub-of-all-Things/RumpelLite) is licensed under [MPL - Mozilla Public License](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/MPL)
