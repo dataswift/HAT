@@ -2,7 +2,7 @@
 Please note sub projects under HAT Project are licensed differently under two open source licenses:
 
 ## HAT including HAT Schema and API
-[HAT including HAT Schema and API](https://github.com/Hub-of-all-Things/HAT2.0) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/AGPL)
+[HAT including HAT Schema and API](https://github.com/Hub-of-all-Things/HAT2.0) is licensed under [AGPL - GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/Hub-of-all-Things/HAT/blob/master/LICENSE/AGPL). You can find the latest release [here](https://github.com/Hub-of-all-Things/HAT2.0/releases).
 
 
 ##Data Plugs
