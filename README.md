@@ -29,7 +29,10 @@ HAT Participants are roles in the HAT Ecosystem, which include:
 ![Architecture Diagram](https://github.com/Hub-of-all-Things/HAT/blob/master/figures/Architecture.L1.png)
 
 HATs can be provisioned via the web interface, one of which is currently in development. It is a mechanism to deploy, run and control individual HATs in a cloud environment, built in a microservice fashion to help any organisation to become a HAT Platform Provider. The HAT Platform Providers are expected, however, to create their own HAT provisioning systems fitting their needs and infrastructure.
-#### The most up to date stable version of HAT core is [HAT 2.0] (https://github.com/Hub-of-all-Things/HAT2.0)
+
+#Tools available to get your started in the HAT ecosystem
+
+## The most up to date stable version of HAT core is [HAT 2.0] (https://github.com/Hub-of-all-Things/HAT2.0)
 
 In the current architecture, a [Kubernetes](http://k8s.io) cluster is created to run HATs. Kubernetes is used to manage all HATs and their databases running as separate, isolated [Docker](https://docker.com) containers across a number of Elastic Compute Cloud [EC2](https://aws.amazon.com/ec2) instances. Each HAT communicates with the outside world via [APIs](https://en.wikipedia.org/wiki/Application_programming_interface) and can be accessed by the owner and authorized applications from the outside world, including Rumpel interface. HAT data is persisted in encrypted Elastic Block Store [EBS](https://aws.amazon.com/ebs) units and backed up using EBS Snapshots, to make sure individuals' data is not lost even in the case of outages.
 
@@ -71,6 +74,7 @@ Calendar Data Plug employs iCalendar file format allowing individuals to collect
 
 The weather data plug is a Rumpel built-in function. It collects weather conditions at individual’s live location or a pre-defined location. It calls weather services from Weather Underground. Weather underground API documentation can be found [here](https://www.wunderground.com/weather/api/d/docs).
 
+
 ## Rumpel
 
 [Harriet Project](http://hubofallthings.com/Harriet) team initiated the creation of [RUMPEL](https://github.com/Hub-of-all-Things/rumpel) - a hyper data browser for your HAT data. No one else can use RUMPEL to view your HAT data except yourself, as the HAT owner. It is compatible with all computer Operating Systems and it excludes all third parties, advertisements and ‘hard selling’. It is also being made available as an open source programme, under Mozilla Public License.
@@ -79,6 +83,12 @@ Personal Data is a combination of various information: your location on your pho
 There are many people who want to sell their data because they think it is valuable to firms. What they do not understand is that an exchange of a precious commodity can happen only when both sides value the data.  If Rumpel can make you see real value of the data to yourself, you will demand more in exchange for it. But more importantly, the firms would also find your contextualised data more valuable!
 
 To find out more about Rumpel, click [here](https://rumpel.hubofallthings.com/#/about)
+
+## RumpelLite 
+RumpelLite is the dashboard for your HAT on iOS. You can do with Rumpel Lite to
+- Download and configure a HAT - private, personal data containers for storing consumer information generated on the internet  #### Securely store and maintain your own personal information
+- Gather and capture information that's created about you by internet services like Facebook and Twitter
+- Monitor and retain iOS sensor data about your location • Store and publish text-based notes and updates
 
 ## MarketSquare
 
@@ -93,22 +103,3 @@ Click [here](https://marketsquare.hubofallthings.com/about) to find out more abo
 ## Forum
 
 We would like to encourage you to ask any questions you have and share your thoughts about your HAT experience. You can do this by joining [the HAT forum](http://forum.hatcommunity.org).
-
-## HATs UP!
-
-We have raised £50K and our Indiegogo campaign is a success! There are still a small number of Beta HAT available, so ...
-
-[![Grab your HAT!](https://github.com/Hub-of-all-Things/DevInfo/blob/master/figures/indiegogo.png)](https://www.indiegogo.com/projects/hat-claim-your-data-organise-visualise-control--3#)
-
-We would like to encourage everyone to ask any questions they have and share their thoughts about the HAT experience in our social media channels: [Facebook group](https://www.facebook.com/hubofallthings) and [Twitter](https://twitter.com/TheHATDex). 
-
-# Background of the HAT Project
-
-The HAT is a research project on engineering a market for personal data and, therefore, designing the economic and business models relevant for this market. As such, we do not have many of the answers. However, over the course of the research, we have done some substantial work and made decisions so that we can move forward to realising the vision. The work done is now articulated in the following six briefing papers:
-
-- HAT Project Research Team. (2015) HAT briefing paper 1 : **Engineering a market for personal data : the Hub-of-all-Things (HAT).**  WMG Service Systems Research Group Working Paper Series (Number 01/15). Available at: [http://wrap.warwick.ac.uk/65605](http://wrap.warwick.ac.uk/65605).
-- HAT Project Research Team. (2015) HAT Briefing Paper 2 : **The Hub-of-all-Things (HAT) economic model of the multi-sided market platform and ecosystem.** WMG Service Systems Research Group Working Paper Series (Number 02/15).  Available at: [http://wrap.warwick.ac.uk/65607](http://wrap.warwick.ac.uk/65607).
-- HAT Project Research Team. (2015) HAT Briefing Paper 3 : **The Hub-of-all-Things (HAT) code of practice on personal data.** WMG Service Systems Research Group Working Paper Series (Number 03/15). Available at: [http://wrap.warwick.ac.uk/65608](http://wrap.warwick.ac.uk/65608). 
-- HAT Project Research Team. (2016) HAT Briefing Paper 4 : **HAT personal data exchange ecosystem - technology architecture briefing.** WMG Service Systems Research Group Working Paper Series (01/16). Available at: [http://wrap.warwick.ac.uk/77855](http://wrap.warwick.ac.uk/77855). 
-- HAT Project Research Team. (2016) HAT Briefing Paper 5 : **Rolling out HATs and creating the market for personal data - the HAT foundation.** WMG Service Systems Research Group Working Paper Series (02/16). Available at: [http://wrap.warwick.ac.uk/77857](http://wrap.warwick.ac.uk/77857).  
-- HAT Project Research Team. (2016) HAT Briefing Paper 6 : **Personal data exchange ecosystem : code of practice release 1.** WMG Service Systems Research Group Working Paper Series (03/16). Available at: [http://wrap.warwick.ac.uk/77858](http://wrap.warwick.ac.uk/77858).
