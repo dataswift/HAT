@@ -30,7 +30,7 @@ HAT Participants are roles in the HAT Ecosystem, which include:
 
 HATs can be provisioned via the web interface, one of which is currently in development. It is a mechanism to deploy, run and control individual HATs in a cloud environment, built in a microservice fashion to help any organisation to become a HAT Platform Provider. The HAT Platform Providers are expected, however, to create their own HAT provisioning systems fitting their needs and infrastructure.
 
-#Tools available to get your started in the HAT ecosystem
+# Tools available to get your started in the HAT ecosystem
 
 ## The most up to date stable version of HAT core is [HAT 2.0] (https://github.com/Hub-of-all-Things/HAT2.0)
 
@@ -38,15 +38,19 @@ In the current architecture, a [Kubernetes](http://k8s.io) cluster is created to
 
 Currently available Data Plugs are run using a separate set of cloud resources, managed by [http://hubofallthings.com](http://hubofallthings.com) using the same orchestration tools and similar infrastructure. Further Data Plugs, developed by third-parties can be hosted separately and talk to individual HATs via the provided APIs.
 
-Each database contains a data schema, allowing for storing any individual's data from any source without loosing the structure specific to the source, at the same time allowing the individual to relate their data to the context of their personal life and provide a common semantic structure for third parties to use such data.
+Each database contains a data [schema](https://github.com/Hub-of-all-Things/hat-database-schema), allowing for storing any individual's data from any source without loosing the structure specific to the source, at the same time allowing the individual to relate their data to the context of their personal life and provide a common semantic structure for third parties to use such data.
 
 ## <a name="api"></a>API
 
 HAT APIs were developed to exercise user managed control of your personal data. REST APIs for the HAT schema can be used by web, mobile and other clients to interact with the HAT, allowing the user to control their data and applications benefit from it. API documentation can be found at [http://hub-of-all-things.github.io/doc](http://hub-of-all-things.github.io/doc). 
 
+We also provide convenience wrappers [Hat Client Scala Play](https://github.com/Hub-of-all-Things/hat-client-scala-play) around HAT HTTP APIs and contains the most up-to-date set of typesafe HAT Data Models and Play-JSON based serializers and deserializers for them.
+
 ## Data Plugs 
 
-Data Plugs are bits of software allowing to retrieve individual's data (well basically our personal data) from data sources on internet (e.g. Facebook) into the HAT. Some already existing HAT Data Plugs:
+Data Plugs are bits of software allowing to retrieve individual's data (well basically our personal data) from data sources on internet (e.g. Facebook) into the HAT. 
+
+DataPlugs in the HAT ecosystem are self-contained services that act between a service providing data and a HAT. We have a [project](https://github.com/Hub-of-all-Things/DataPlugs) provides reusable libraries and structures for building such DataPlugs as well as examples of already built ones：
 
 **Facebook Data Plug**
 
@@ -92,13 +96,17 @@ RumpelLite is the dashboard for your HAT on iOS. You can do with Rumpel Lite to
 
 ## MarketSquare
 
-MarketSquare is the service provided by HATDeX so that HATs can come together as a community and engage with the wider stakeholder community of the HAT ecosystem. On Marketsquare, HAT users can browse data offers, and build sub groups of HATs interested to engage with a cause or build new functionalities on the HAT. HAT users can keep up to date with the latest news , and chat with other HAT users.
+MarketSquare is the public facing ‘App Store’, the service provided by HCF so that HATs can come together as a community and engage with the wider stakeholder community of the HAT ecosystem. On Marketsquare, HAT users can browse apps, hat providers, data offers, and build sub groups of HATs interested to engage with a cause or build new functionalities on the HAT. HAT users can keep up to date with the latest news, and chat with other HAT users.
 
-MarketSquare is also where data shoppers sign up to ask for HAT data and HAT users can browse these offers and decide which are relevant and if they are willing to exchange their data in return for the benefits. 
+MarketSquare is also one of the places where data shoppers sign up to ask for HAT data and HAT users can browse these offers and decide which are relevant and if they are willing to exchange their data in return for the benefits. 
 
 Developers also go to MarketSquare to get their data plugs validated and published. Data plugs are services created by developers who wish to bring more and different types of data into the HAT. If a data plug has been created by a developer, they come into Marketsquare and register it for approval. Once approved, HAT users can use these data plugs to bring their data into their HATs. HAT users can also vote for the quality of the data plug by voting on it.
 
-Click [here](https://marketsquare.hubofallthings.com/about) to find out more about MarketSquare
+Click [here](https://marketsquare.hubofallthings.com/about) to find out more about MarketSquare. 
+
+We also provide convenience wrappers [Scala API wrappers for the HAT MarketSquare](https://github.com/Hub-of-all-Things/marketsquare-client-scala-play#scala-api-wrappers-for-the-hat-marketsquare) around HAT MarketSquare HTTP APIs and contains the most up-to-date set of typesafe MarketSquare Data Models and Play-JSON based serializers and deserializers for them.
+
+It relies on Play-WS for an asynchronous HTTP client.
 
 ## Forum
 
